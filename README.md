@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, tailwind**
 
-- 👨‍💻 All of my projects are available at [in progres...](in progres...)
+- 👨‍💻 All of my projects are available at [in progres...]
 
 - 📫 How to reach me **polaczekmr@gmail.com**
 
