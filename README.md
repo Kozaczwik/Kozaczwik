@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [in progres...]
 
-- 📫 How to reach me **polaczekmr@gmail.com**
+- 📫 How to reach me **polakw4@gmail.com*
 
 - ⚡ Fun fact **I play handball**
 
